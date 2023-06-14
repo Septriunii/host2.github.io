@@ -1,10 +1,10 @@
-import Navbar from "./components/navbar";
+// import Navbar from "./components/navbar";
 import Products from "./components/Products";
 
 function App() {
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
       <Products />
     </div>
   );
